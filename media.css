@@ -16,9 +16,13 @@
         align-self: auto;
     }
     img{
-        display: none;
+        display:flex;
     }
     ul{
         text-align: center;
+    }
+    form{
+        margin: auto;
+        font-size: 10px;
     }
 }
