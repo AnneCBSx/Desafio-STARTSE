@@ -47,13 +47,14 @@ main{
 h2{
     font-size: 26px;
     line-height: 10px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
 }
 span{    color: blueviolet;
 
 }
 img{
-    border-radius: 100px;
+    border-radius: 1200px;
     width:250px;
 }
 p{
@@ -90,8 +91,8 @@ button{
     background-color: blueviolet;
     color: black;
     border-radius: 10px;
-    width: 90%;
-    height:90px;
+    width: 70%;
+    height:70px;
     font-size: 20px;
-    
+margin-left: 17%;    
 }
