@@ -68,10 +68,11 @@ form{
 
 }
 form [type="submit"]{
-    width: 400px;
+    width: 200px;
     height: 50px;
     background-color: blueviolet;
     color: white;
+    align-items: center;
 }
 form [type="submit"]:hover{
     cursor: pointer;
@@ -80,7 +81,7 @@ form [type="submit"]:hover{
 
 input{
     
-    margin-top: 20px;
+    margin-top: 10px;
     height: 15px;
     padding: 20px;
     border-radius: 20px;
