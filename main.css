@@ -1,0 +1,46 @@
+
+body{
+    background-color: rgb(34,36,34);
+    color:white;
+    font-family:monospace ;
+    line-height: 10px;
+    max-width:1200px;
+    margin:0 auto;
+
+
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#title{flex-direction: column;
+    line-height: 10px;
+
+}
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+h1{
+    font-weight: 200;
+
+}
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+
+}
+h2{
+    font-size: 36px;
+    line-height: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+span{
+
+}
