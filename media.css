@@ -7,7 +7,7 @@
         flex-direction: column;
     }
     h2{
-        font-size: 10px;
+        font-size: 9px;
     }
     form{ margin: auto;
 
@@ -24,5 +24,8 @@
     form{
         margin: auto;
         font-size: 10px;
+    }
+    h1{font-size: 10px;
+
     }
 }
