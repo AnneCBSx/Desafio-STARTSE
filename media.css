@@ -15,4 +15,10 @@
     input{
         align-self: auto;
     }
+    img{
+        display: none;
+    }
+    ul{
+        text-align: center;
+    }
 }
