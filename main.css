@@ -4,10 +4,17 @@ body{
     color:white;
     font-family:monospace ;
     line-height: 10px;
-    max-width:1200px;
+    max-width:1000px;
     margin:0 auto;
 
 
+}
+a{color: white;
+
+}
+a:hover{
+color: blueviolet;
+transition: 0,3s all;
 }
 
 header{
@@ -37,10 +44,20 @@ main{
 
 }
 h2{
-    font-size: 36px;
+    font-size: 26px;
     line-height: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 span{
+    color: blueviolet;
 
+}
+img{
+    border-radius: 1900px;
+    width:250px;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 16px;
+line-height: 20px;
 }
