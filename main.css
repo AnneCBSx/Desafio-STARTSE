@@ -64,7 +64,7 @@ line-height: 20px;
 form{
     display: flex;
     flex-direction: column;
-    width: 70%;
+    width: 60%;
 
 }
 form [type="submit"]{
@@ -81,7 +81,7 @@ form [type="submit"]:hover{
 input{
     
     margin-top: 20px;
-    height: 10px;
+    height: 15px;
     padding: 20px;
     border-radius: 20px;
 }
